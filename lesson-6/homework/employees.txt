@@ -1,1 +1,3 @@
-1001John DoeSoftware Engineer75000
+1001, Alan, Software_Developer, 80000
+1002, John, Data_Scientist, 85000
+1003, Emma, Project_Manager, 95000
