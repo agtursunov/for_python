@@ -1,3 +1,7 @@
 1001, Alan, Software_Developer, 80000
 1002, John, Data_Scientist, 85000
 1003, Emma, Project_Manager, 95000
+1004, Sophia, UX_Designer, 70000
+1005, Michael, Product_Owner, 90000
+1006, Olivia, QA_Engineer, 75000
+1007, Liam, DevOps_Engineer, 82000
